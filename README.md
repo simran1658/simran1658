@@ -1,6 +1,54 @@
 # 💫 Hey, I'm Simran Singh 👋👋
 <br>🎓 Final-year Computer Science and Engineering student<br>💻 Proficient in: C, Java, Python, JavaScript<br>🧠 Strong foundation in: Data Structures, Algorithms, Full-Stack Web Development<br>🏆 Hackathon enthusiast: Solving real-world problems and enhancing teamwork skills<br>🚀 Exploring emerging technologies to broaden my technical expertise
 
+___
+
+## Projects
+
+ 🏙️ **Urban Pulse** 
+<br>🚦 Intelligent traffic signal system using YOLOv5 for vehicle detection and real-time lane density analysis.
+<br>🛠️ Python, YOLOv5, PyGame, OpenCV, NumPy
+<br>📝 Simulates smart traffic lights for efficient traffic flow management.
+<br>📊 Reduces congestion by dynamically adjusting signal timings.
+
+🚀 **[Yatrisaarthi](https://github.com/YatriSaarthi/YatriSaarthi)** 
+<br>🌐 Platform connecting travellers with local communities for authentic experiences and guides.
+<br>🛠️ React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io
+<br>💡 Empowers local guides by creating job opportunities.
+<br>✈️ Enhances solo travel with real-time local insights.
+
+💬 **[ShareUs](https://github.com/simran1658/Real-Time-Chat-Application)** 
+<br>🗨️ Real-time chat app with secure JWT authentication and responsive UI.
+<br>🛠️ MERN Stack, Socket.io, Zustand, Tailwind CSS, DaisyUI
+<br>🔒 Ensures secure user access with JWT-based authentication.
+<br>⚡ Supports instant messaging with scalable backend architecture.
+
+🎭  **[Real-Time Emotion Detection](https://github.com/simran1658/Real-Time-Emotion-Detection-System)** 
+<br>🤖 Detects human emotions via webcam using deep learning models.
+<br>🛠️ Python, OpenCV, TensorFlow
+<br>🎥 Uses live webcam feed for emotion analysis.
+<br>📈 Enhances human-computer interaction through emotion recognition.
+
+____
+
+____
+
+## Open Source Contribution
+
+<table>
+  <tr>
+    <td>
+      <div style="border:2px solid #444; border-radius:10px; padding:16px; background-color:#222; width:300px;">
+        <h4 style="color:#eee;">👩‍💻 GirlScript Summer of Code (GSSoC) 2024</h4>
+        <p style="color:#ccc;">✨ Contributed to <strong>open-source projects</strong> by enhancing features and fixing bugs.<br>
+        🔧 Improved code readability and added functionalities.<br>
+        🌱 Gained hands-on experience in large-scale codebases.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+____
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-singh-297731289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhsim1658ran@gmail.com) 
