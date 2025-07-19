@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Simran Singh 👋👋
-###<br>🎓 Final-year Computer Science and Engineering student<br>💻 Proficient in: C, Java, Python, JavaScript<br>🧠 Strong foundation in: Data Structures, Algorithms, Full-Stack Web Development<br>🏆 Hackathon enthusiast: Solving real-world problems and enhancing teamwork skills<br>🚀 Exploring emerging technologies to broaden my technical expertise
+<br>🎓 Final-year Computer Science and Engineering student<br>💻 Proficient in: C, Java, Python, JavaScript<br>🧠 Strong foundation in: Data Structures, Algorithms, Full-Stack Web Development<br>🏆 Hackathon enthusiast: Solving real-world problems and enhancing teamwork skills<br>🚀 Exploring emerging technologies to broaden my technical expertise
 
 
 ## 🌐 Socials:
